@@ -1,0 +1,18 @@
+#* You must include a written description of three observable trends based on the data. 
+
+
+1.) There are both a lot more males than females who make purchases in this game (although we don't 
+know what percentage they represent of all PLAYERS in the game, assuming it is free-to-play) AND
+the males who make purchases are generally more lucrative customers. They purchase more expensive items on average,
+ and tend to spend more money in total on average as well (per the Normalized Total).
+
+ 2.) There isn't a huge amount of variability in the total number of items that individual users purchase. One user
+ purchased 5 items, while two users tied with 4 items each and then a ton of users purchased 3 items total (you
+ can see that if you pull the top 10 instead of the top 5 users by total count of items purchased). However, there is
+ considerable variability in total amount purchased, with the top spender spending over 5 times as much as the average
+ user. The top 5 total spenders also tended to purchase more expensive items on average than all of the users.
+
+ 3.) The most profitable items are a bit less popular than the most popular items. However, their higher average purchase
+ price more than makes up for the fact that users are buying fewer of them. This causes a substantial difference in
+ the overall profitability of the most popular vs the most profitable items - there isn't a single item in common
+ among both of those top 5 lists.
